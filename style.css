@@ -8,7 +8,7 @@
 }
 
 body {
-    margin: 50px;
+    margin: 300px 100px;
 }
 
 input {
@@ -18,6 +18,11 @@ input {
 
 section {
     border: 2px solid;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
 
 h1 {
